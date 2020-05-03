@@ -1,0 +1,48 @@
+PODS:
+  - DeepDiff (2.3.1)
+  - EasySwiftLayout (1.3.3)
+  - Giphy (1.2.6):
+    - DeepDiff
+    - libwebp
+    - PINCache
+  - IHKeyboardAvoiding (4.7)
+  - libwebp (1.1.0):
+    - libwebp/demux (= 1.1.0)
+    - libwebp/mux (= 1.1.0)
+    - libwebp/webp (= 1.1.0)
+  - libwebp/demux (1.1.0):
+    - libwebp/webp
+  - libwebp/mux (1.1.0):
+    - libwebp/demux
+  - libwebp/webp (1.1.0)
+  - PINCache (2.3)
+  - ScuffedUI (0.10.0)
+
+DEPENDENCIES:
+  - EasySwiftLayout
+  - Giphy
+  - IHKeyboardAvoiding
+  - ScuffedUI
+
+SPEC REPOS:
+  trunk:
+    - DeepDiff
+    - EasySwiftLayout
+    - Giphy
+    - IHKeyboardAvoiding
+    - libwebp
+    - PINCache
+    - ScuffedUI
+
+SPEC CHECKSUMS:
+  DeepDiff: e5ae6c50d0321568e4508cec5930b9f10bb293fc
+  EasySwiftLayout: cafc8f3b957e51ef5e14a4d020c81fba23e460da
+  Giphy: 2415d978989ee384040e6c61bc9ee545e6f4ffb0
+  IHKeyboardAvoiding: 4cae0880c3975feffa278495df894c5166e71ad0
+  libwebp: 946cb3063cea9236285f7e9a8505d806d30e07f3
+  PINCache: ce36ed282031b92fc7733ffe831f474ff80fddc2
+  ScuffedUI: ac25a16da91d4ef031c8b6018948a8b931b12460
+
+PODFILE CHECKSUM: e4273edf0ce6f5236771480a44a67a5385dca0c5
+
+COCOAPODS: 1.8.4
