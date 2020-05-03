@@ -33,7 +33,7 @@
 		B71D83C7245F65BB00D5F3C8 /* NavigationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationController.swift; sourceTree = "<group>"; };
 		B7292981245F543100213B1F /* GiphyListController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GiphyListController.swift; sourceTree = "<group>"; };
 		B7292985245F5ADD00213B1F /* AppCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppCoordinator.swift; sourceTree = "<group>"; };
-		B729298A245F61EA00213B1F /* Appearance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Appearance.swift; path = Sources/App/Appearance.swift; sourceTree = SOURCE_ROOT; };
+		B729298A245F61EA00213B1F /* Appearance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Appearance.swift; path = Sources/Submodules/Appearance/Appearance.swift; sourceTree = SOURCE_ROOT; };
 		B72DF3FA245E3D5400874C24 /* ScuffedUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ScuffedUI.framework; path = Frameworks/ScuffedUI.framework; sourceTree = "<group>"; };
 		B792EC95245DFB910045BF60 /* ViewControllerLifecycle.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ViewControllerLifecycle.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B792EC98245DFB910045BF60 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
